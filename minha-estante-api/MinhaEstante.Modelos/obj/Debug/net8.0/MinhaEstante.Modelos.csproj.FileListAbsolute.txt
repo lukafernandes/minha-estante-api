@@ -1,0 +1,12 @@
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\bin\Debug\net8.0\MinhaEstante.Modelos.deps.json
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\bin\Debug\net8.0\MinhaEstante.Modelos.dll
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\bin\Debug\net8.0\MinhaEstante.Modelos.pdb
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.AssemblyInfoInputs.cache
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.AssemblyInfo.cs
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.csproj.CoreCompileInputs.cache
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.sourcelink.json
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.dll
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\refint\MinhaEstante.Modelos.dll
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\MinhaEstante.Modelos.pdb
+C:\Luka\GitHub\minha-estante-api\minha-estante-api\MinhaEstante.Modelos\obj\Debug\net8.0\ref\MinhaEstante.Modelos.dll

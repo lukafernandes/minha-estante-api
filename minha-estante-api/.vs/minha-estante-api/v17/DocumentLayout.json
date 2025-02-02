@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|solutionrelative:minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minha-estante-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|solutionrelative:minha-estante-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.dados\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|solutionrelative:minhaestante.dados\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\saga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\saga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "minha-estante-api\\Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:06:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinhaEstanteContext.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs*",
+              "RelativeToolTip": "MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:30:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\DAL.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Dados\\Banco\\DAL.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\DAL.cs",
+              "RelativeToolTip": "MinhaEstante.Dados\\Banco\\DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:23:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Saga.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Saga.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Modelos\\Modelos\\Saga.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Saga.cs",
+              "RelativeToolTip": "MinhaEstante.Modelos\\Modelos\\Saga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:18:17.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editora.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Editora.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Modelos\\Modelos\\Editora.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Editora.cs",
+              "RelativeToolTip": "MinhaEstante.Modelos\\Modelos\\Editora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:17:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Genero.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Modelos\\Modelos\\Genero.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Genero.cs",
+              "RelativeToolTip": "MinhaEstante.Modelos\\Modelos\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:15:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Livro.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Modelos\\Modelos\\Livro.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Livro.cs",
+              "RelativeToolTip": "MinhaEstante.Modelos\\Modelos\\Livro.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:08:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Autor.cs",
+              "RelativeDocumentMoniker": "MinhaEstante.Modelos\\Modelos\\Autor.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Modelos\\Modelos\\Autor.cs",
+              "RelativeToolTip": "MinhaEstante.Modelos\\Modelos\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:01:46.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
