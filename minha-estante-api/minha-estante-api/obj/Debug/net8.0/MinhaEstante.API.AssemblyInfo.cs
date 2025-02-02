@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhaEstante.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35281e78fcde74bad2f277641decc1e76ce13a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1afdb83061f862f617923ffae8f10be0a9859257")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhaEstante.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhaEstante.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|solutionrelative:minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minha-estante-api\\minhaestante.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|solutionrelative:minha-estante-api\\minhaestante.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minha-estante-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189AB642-2E39-497C-AA9A-41E248097855}|minha-estante-api\\MinhaEstante.API.csproj|solutionrelative:minha-estante-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|solutionrelative:minhaestante.dados\\banco\\minhaestantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{761A2146-7D44-4FE8-9486-9D11FC0CFEFE}|MinhaEstante.Dados\\MinhaEstante.Dados.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.dados\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|c:\\luka\\github\\minha-estante-api\\minha-estante-api\\minhaestante.modelos\\modelos\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E408BDB9-1ECA-4428-AD25-D68D0CFFFFAD}|MinhaEstante.Modelos\\MinhaEstante.Modelos.csproj|solutionrelative:minhaestante.modelos\\modelos\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:minha-estante-api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,33 +46,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "minha-estante-api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs*",
-              "RelativeToolTip": "minha-estante-api\\Controllers\\WeatherForecastController.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAArwBcAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T20:06:02.529Z",
+              "DocumentIndex": 0,
+              "Title": "MinhaEstante.API.csproj",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\MinhaEstante.API.csproj",
+              "RelativeDocumentMoniker": "minha-estante-api\\MinhaEstante.API.csproj",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\MinhaEstante.API.csproj",
+              "RelativeToolTip": "minha-estante-api\\MinhaEstante.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T23:38:20.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "minha-estante-api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:06:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MinhaEstanteContext.cs",
               "DocumentMoniker": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
               "RelativeDocumentMoniker": "MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
-              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs*",
-              "RelativeToolTip": "MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs*",
+              "ToolTip": "C:\\Luka\\GitHub\\minha-estante-api\\minha-estante-api\\MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
+              "RelativeToolTip": "MinhaEstante.Dados\\Banco\\MinhaEstanteContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:30:52.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:30:52.962Z"
             },
             {
               "$type": "Document",

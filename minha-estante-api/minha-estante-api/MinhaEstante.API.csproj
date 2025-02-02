@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>minha_estante_api</RootNamespace>
+    <RootNamespace>minha-estante-api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
